@@ -1,8 +1,7 @@
 ## Welcome to Value Maximized 👋  
-- 💬 Ask me about ... strategy, startups, and decision-making  
+- 💬 Ask me about ... startups & products  
 - 📫 How to reach me: ... connect with me on LinkedIn or follow my newsletter on Substack
-- ⚡ Fun fact: ... I balance strategy decks with coding experiments 🚀
-- 👯 I’m looking for help with front-end development, ML programming and anything possible. 
+- ⚡ Fun fact: ... I love solving business problems with tech 🚀
 
 🌐 Connect with Me
 
